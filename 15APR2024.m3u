@@ -2,12 +2,6 @@
 
 #A Special Added Streams
 
-#FM
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ekv3xnWJpp.png" group-title="FM",Non-Stop Hindi
-http://s5.voscast.com:8216/stream
-#EXTINF:1 tvg-logo="https://radiosindia.com/images/radiocity.jpg" group-title="FM",Radio city
-https://stream-147.zeno.fm/pxc55r5uyc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweGM1NXI1dXljOXV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNXNUhzanZyUW1xWmItekdaeVZTX3ciLCJpYXQiOjE3MTkxNjIwMTIsImV4cCI6MTcxOTE2MjA3Mn0.6QwiDTg63T4M09nq89D_ke_SgjgQnS1wWekAb0Fqotk
-
 #Sony Liv
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",SONY AATHz
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
@@ -53,6 +47,12 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sony Liv",SONY YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#FM
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ekv3xnWJpp.png" group-title="FM",Non-Stop Hindi
+http://s5.voscast.com:8216/stream
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/radiocity.jpg" group-title="FM",Radio city
+https://stream-147.zeno.fm/pxc55r5uyc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweGM1NXI1dXljOXV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNXNUhzanZyUW1xWmItekdaeVZTX3ciLCJpYXQiOjE3MTkxNjIwMTIsImV4cCI6MTcxOTE2MjA3Mn0.6QwiDTg63T4M09nq89D_ke_SgjgQnS1wWekAb0Fqotk
 
 
 #CRICHD
